@@ -1,8 +1,8 @@
-# Portifólio 
+# Portfólio 
 
-Olá, Bem vindo ao meu projeto de portfólio.
+* Olá, Bem vindo ao meu projeto de portfólio.
 
-![image]
+![Imagem do projeto](assets/211304452-220fedf0-f91b-490f-8a65-a60ce860bc5c.png)
 
 ## Ferramentas utilizadas:
 
@@ -22,4 +22,4 @@ Olá, Bem vindo ao meu projeto de portfólio.
 
 1. Clone o repositório:
    ```bash
-   git clone https://july-gusmam/portifolio.git
+   git clone https://july-gusman/portifolio.git
